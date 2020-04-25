@@ -1,7 +1,5 @@
 # react-login-with-google
 
-## ReactJS - Login with Google
-
 **You will need to generate a clientId in order to implement login with google on your project.**
 
 ## Creating project on Google Developers
