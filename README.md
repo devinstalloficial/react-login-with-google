@@ -47,7 +47,7 @@ export default App;
 
 **To leave with basic centralized style.**
 
-```JS
+```CSS
 .container{
   display: flex;
   flex-direction: column;
